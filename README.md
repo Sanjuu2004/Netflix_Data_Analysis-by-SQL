@@ -1,3 +1,3 @@
 # Netflix_Data_Analysis using SQL 
 
-![Netflix Logo](
+![Netflix Logo](netflix.jpeg)
